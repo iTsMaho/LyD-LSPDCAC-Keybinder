@@ -10,7 +10,7 @@ LyD Keybinder für die LSPD SAMPCAC kompatibel
 | -------- | ------------ |
 | **Hotkeys** | Tastenbelege verwalten |
 | **Textbinds** | Eigene Textbefehle erstellen mit vorgegebenen Variablen. |
-| **Lebens Anzeige ** | Ein Overlay der dein Leben anzeigt. |
+| **Lebens Anzeige** | Ein Overlay der dein Leben anzeigt. |
 | **Rüstungs Anzeige** | Ein Overlay der deine Rüstung anzeigt. |
 | **Ping/FPS Anzeige** | Ein Overlay der dein Ping/FPS anzeigt.|
 | **Wantedliste Anzeige** | Ein Overlay der die Wantedliste anzeigt.|
