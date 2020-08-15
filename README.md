@@ -2,8 +2,11 @@
 LyD Keybinder für die LSPD SAMPCAC kompatibel
 
 ## Vorschau
-<div align="center"><img src="IMG"></img></div>
-
+<div align="center"><img src="http://213.202.208.207/LSPDCAC/Bilder/Home.png"></img></div>
+<div align="center"><img src="http://213.202.208.207/LSPDCAC/Bilder/Hotkeys.png"></img></div>
+<div align="center"><img src="http://213.202.208.207/LSPDCAC/Bilder/Textbinds.png"></img></div>
+<div align="center"><img src="http://213.202.208.207/LSPDCAC/Bilder/Overlay.png"></img></div>
+<div align="center"><img src="http://213.202.208.207/LSPDCAC/Bilder/Einstellungen.png"></img></div>
 ## Allgemein
 
 | Funktionen | Beschreibung |
